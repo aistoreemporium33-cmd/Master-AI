@@ -1,0 +1,8 @@
+{
+  "name": "Maestro AI",
+  "description": "Dein street-smart Lern-Buddy. Keine Spielchen, kein Gelaber. Maestro bringt dir den Stoff bei, als wärst du der King der Straße.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
